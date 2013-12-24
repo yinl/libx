@@ -1,4 +1,4 @@
-unsigned int libx::hash(const char *key, int len)
+unsigned int hashmap::hash(const char *key, int len)
   {
     //printf("%s %d\n", key, len);
 
